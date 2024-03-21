@@ -69,6 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+## Installation Instructions
+Follow these instructions to install the dependencies and set up the development environment:
+
+1.Install Node.js and npm (Node Package Manager) from https://nodejs.org/ if you haven't already.
+Install React Native CLI globally using the command npm install -g react-native-cli (for React Native projects) or create-react-app (for React web projects) using npm install -g create-react-app.
+2.Sign up for an account and obtain API keys for Tomorrow.io API from https://www.tomorrow.io/.
+Update the API keys in the project configuration files.
 
 ### Purpose
 The purpose of this assignment is to implement a practical application that integrates with weather APIs to fetch and display real-time and forecasted weather data. This project will help you gain hands-on experience with React ,API integration, error handling, and user interface design.
@@ -76,6 +83,10 @@ The purpose of this assignment is to implement a practical application that inte
 # To clone this repository:
 
 git clone https://github.com/Prava102002/healthflex-weatherapp.git
+
+
+## Preview Link of Project
+https://healthflex-weatherapp.vercel.app/
 
 ### Contact Information
 For any queries or assistance during the evaluation, feel free to contact:
