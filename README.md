@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Purpose
+The purpose of this assignment is to implement a practical application that integrates with weather APIs to fetch and display real-time and forecasted weather data. This project will help you gain hands-on experience with React ,API integration, error handling, and user interface design.
+
+# To clone this repository:
+
+git clone https://github.com/Prava102002/healthflex-weatherapp.git
+
+### Contact Information
+For any queries or assistance during the evaluation, feel free to contact:
+
+Ch.G.M.Pravallika
+Email: pravallika102002@gmail.com
+GitHub Link: https://github.com/Prava102002
+
+
