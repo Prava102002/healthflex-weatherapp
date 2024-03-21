@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-import './weatherApp.css'; // Import CSS file for styling
+import './weatherApp.css'; // Importing CSS file for styling
 
-const API_KEY = 'N80FAQBiwtxAKiI8dArUyGO3VE6oicFI'; // Replace with your Tomorrow.io API key
+const API_KEY = 'IZnce2GrHVPwQIu37xyx0NlAKfyOyLeJ';
 
 const WeatherApp = () => {
     const [location, setLocation] = useState('');
@@ -13,7 +13,7 @@ const WeatherApp = () => {
     const [error, setError] = useState(null);
   
     useEffect(() => {
-      // Fetch real-time weather data when component mounts
+      // Fetching the real-time weather data and forecast data when component mounts
       fetchCurrentWeather('Vijayawada');
       fetchForecastWeather('Vijayawada');
     }, []);
@@ -53,7 +53,7 @@ const WeatherApp = () => {
   
     return (
       <div style={{ textAlign: 'center' }}>
-        <h1>Weather App</h1>
+        <h1>Weather App With React</h1>
         <input
           type="text"
           value={location}
